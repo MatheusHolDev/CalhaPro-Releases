@@ -560,3 +560,4 @@
     if (session?.access_token && document.visibilityState === 'visible' && !isEditing()) void syncNow();
   }, 60000);
 })();
+

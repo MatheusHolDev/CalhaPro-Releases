@@ -3,3 +3,4 @@ window.CALHAPRO_SUPABASE = Object.freeze({
   url: 'https://oxhsgwhfbfkonfitfbiv.supabase.co',
   publishableKey: 'sb_publishable_YeFxukynIrud0uMbCz1OuA_HmFHzzi7'
 });
+

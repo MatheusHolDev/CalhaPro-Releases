@@ -7,8 +7,7 @@ const APP_SHELL = [
   './cloud-sync.js',
   './calhas-oliveira-logo.png',
   './calhas-oliveira-logo-transparent.png',
-  './calhapro-icon-192.png',
-  './calhapro-icon-512.png'
+  './calhapro-icon.svg'
 ];
 
 self.addEventListener('install', event => {
@@ -52,3 +51,4 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+
